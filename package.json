@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "*",
+    "prop-types": "*",
+    "redux": "*"
+  },
+  "devDependencies": {
+    "eslint-plugin-html": "*",
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-plugin-transform-object-rest-spread": "*",
+    "webpack": "*",
+    "webpack-stream": "*",
+    "webpack-hot-middleware": "*",
+    "webpack-dev-middleware": "*",
+    "webpack-module-hot-accept": "*",
+    "webpack-shell-plugin": "*",
+    "browser-sync": "*",
+    "css-loader": "*",
+    "style-loader": "*",
+    "sass-loader": "*",
+    "node-sass": "*",
+    "url-loader": "*",
+    "file-loader": "*",
+    "react-hot-loader": "*",
+    "gulp": "*",
+    "gulp-util": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-print": "*",
+    "vinyl-source-stream": "*",
+    "vinyl-buffer": "*",
+    "eslint": "*",
+    "eslint-plugin-react": "*"
+  }
+}
